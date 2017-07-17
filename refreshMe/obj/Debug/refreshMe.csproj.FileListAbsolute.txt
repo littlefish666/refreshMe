@@ -1,0 +1,10 @@
+c:\users\f6run\documents\visual studio 2017\Projects\refreshMe\refreshMe\bin\Debug\refreshMe.exe.config
+c:\users\f6run\documents\visual studio 2017\Projects\refreshMe\refreshMe\bin\Debug\refreshMe.exe
+c:\users\f6run\documents\visual studio 2017\Projects\refreshMe\refreshMe\bin\Debug\refreshMe.pdb
+c:\users\f6run\documents\visual studio 2017\Projects\refreshMe\refreshMe\obj\Debug\refreshMe.csprojResolveAssemblyReference.cache
+c:\users\f6run\documents\visual studio 2017\Projects\refreshMe\refreshMe\obj\Debug\refreshMe.mainWindow.resources
+c:\users\f6run\documents\visual studio 2017\Projects\refreshMe\refreshMe\obj\Debug\refreshMe.Properties.Resources.resources
+c:\users\f6run\documents\visual studio 2017\Projects\refreshMe\refreshMe\obj\Debug\refreshMe.csproj.GenerateResource.Cache
+c:\users\f6run\documents\visual studio 2017\Projects\refreshMe\refreshMe\obj\Debug\refreshMe.exe
+c:\users\f6run\documents\visual studio 2017\Projects\refreshMe\refreshMe\obj\Debug\refreshMe.pdb
+c:\users\f6run\documents\visual studio 2017\Projects\refreshMe\refreshMe\bin\Debug\Bunifu_UI_v1.52.dll
